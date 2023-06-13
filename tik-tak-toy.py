@@ -46,4 +46,4 @@ def play_game():
             print("Недопустимый ход. Попробуйте снова.")
 
 
-play_game()
+play_game() олкатя
